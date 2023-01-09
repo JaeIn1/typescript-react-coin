@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript-react-coin/static/css/main.8a685450.css",
+    "main.js": "/typescript-react-coin/static/js/main.2fe1d9ee.js",
+    "index.html": "/typescript-react-coin/index.html",
+    "main.8a685450.css.map": "/typescript-react-coin/static/css/main.8a685450.css.map",
+    "main.2fe1d9ee.js.map": "/typescript-react-coin/static/js/main.2fe1d9ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.2fe1d9ee.js"
+  ]
+}
